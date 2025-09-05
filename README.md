@@ -19,7 +19,7 @@ Green Future Community Garden represents a grassroots sustainability initiative 
 **Project Objectives:**
 - Increase volunteer engagement by 40% within six months
 - Establish digital presence for corporate sponsorship opportunities
-- Create accessible resource hub for sustainable living education
+- Create an accessible resource hub for sustainable living education
 - Enhance communication between garden members and organizers
 - Document and showcase community impact for media outreach
 
@@ -35,7 +35,7 @@ TechFix Mobile Repair was founded in 2021 by certified technician Michael Jordaa
 - Reduce operational phone inquiries through comprehensive service information
 - Build digital credibility through customer testimonials and transparent processes
 - Attract corporate clients for bulk repair contracts
-- Establish educational content platform to build customer trust
+- Establish an educational content platform to build customer trust
 
 ## Technical Framework
 
@@ -91,7 +91,7 @@ The Green Future Community Garden website is projected to significantly expand v
 
 ## Community Impact
 
-These projects represent more than technical exercises; they demonstrate web development's potential to strengthen community bonds, promote environmental sustainability, and support local economic development. Through accessible design and user-focused functionality, both websites serve as digital bridges connecting organizations with their communities.
+These projects represent more than just technical exercises; they demonstrate the potential of web development to strengthen community bonds, promote environmental sustainability, and support local economic development. Through accessible design and user-focused functionality, both websites serve as digital bridges connecting organizations with their communities.
 
 ## References
 
