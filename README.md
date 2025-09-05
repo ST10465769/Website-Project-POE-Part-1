@@ -6,92 +6,89 @@
 **Group:2**
 
 ## Project Overview
+This project involves creating a comprehensive website for Green Future Community Garden, a non-profit organization based in Benoni North, Gauteng. The website aims to increase community participation in urban gardening programs, expand educational outreach, and establish an online presence to attract corporate sponsors and volunteers.
 
-This portfolio presents two comprehensive website development proposals designed to address distinct community and business needs in the Gauteng region. The projects demonstrate practical application of modern web development principles while serving real-world organizational requirements.
+### Organization Details
+- **Organization Type**: Non-Profit Organization
+- **Location**: Benoni North, Gauteng, South Africa
+- **Established**: 2019 (fictional, based on realistic community garden models)
+- **Target Audience**: Local residents, families with children, schools, and environmentally conscious individuals
+- **Primary Mission**: Creating sustainable urban gardens that provide fresh food while educating communities about environmental stewardship
 
-### Project 1: Green Future Community Garden Website
+## Website Goals and Objectives
 
-**Organization Background:**
-Green Future Community Garden represents a grassroots sustainability initiative established in 2019 by Benoni residents. The organization has evolved from a small group of five families into a thriving community hub supporting over 200 households (Kaulela, 2024). The garden serves as both a food production facility and educational center, promoting environmental stewardship and community cohesion.
+### Primary Goal
+To increase community participation in urban gardening programs and expand educational outreach to schools and community groups throughout the East Rand.
 
-**Mission Statement:** "To create sustainable urban gardens that provide fresh, healthy produce while teaching communities about caring for the environment and building stronger bonds through shared gardening experiences" (Kaulela, 2024).
+### Secondary Goals
+- Increase volunteer registrations by 40% within six months
+- Establish online presence to attract corporate sponsors and grant opportunities
+- Provide educational resources for home gardening and sustainable living
+- Facilitate communication between garden plot holders and organizers
+- Showcase success stories and community impact to attract media attention
 
-**Project Objectives:**
-- Increase volunteer engagement by 40% within six months
-- Establish digital presence for corporate sponsorship opportunities
-- Create an accessible resource hub for sustainable living education
-- Enhance communication between garden members and organizers
-- Document and showcase community impact for media outreach
+## Key Features and Functionality
 
-### Project 2: TechFix Mobile Repair Website
+### Core Features
+- **Responsive Design**: Fully optimized for desktop, tablet, and mobile devices
+- **Navigation System**: Intuitive 5-page structure with clear user pathways
+- **Contact Forms**: Interactive forms for volunteer registration and school bookings
+- **Resource Library**: Educational downloads and community resources
+- **Community Focus**: Stories, testimonials, and impact statistics
 
-**Organization Background:**
-TechFix Mobile Repair was founded in 2021 by certified technician Michael Jordaan, beginning as a small repair booth in Eastgate Shopping Centre before expanding to serve the broader East Rand community with comprehensive mobile device repair services (Kaulela, 2024).
+### Technical Implementation
+- **HTML5**: Semantic markup with proper heading hierarchy and accessibility features
+- **CSS3**: Modern styling with responsive grid layouts and mobile-first approach
+- **JavaScript**: Interactive forms, navigation, and user experience enhancements
+- **Cross-browser Compatibility**: Tested and optimized for all major browsers
 
-**Mission Statement:** "To deliver fast, reliable, and affordable mobile device repairs with exceptional customer service and honest, upfront pricing" (Kaulela, 2024).
+## Website Structure
 
-**Project Objectives:**
-- Generate 30% of new customers through online channels within four months
-- Reduce operational phone inquiries through comprehensive service information
-- Build digital credibility through customer testimonials and transparent processes
-- Attract corporate clients for bulk repair contracts
-- Establish an educational content platform to build customer trust
+### Page Architecture
+1. **Homepage (index.html)**
+   - Hero section with compelling community imagery
+   - Mission overview and community impact statistics
+   - Program previews and testimonials
+   - Newsletter signup and call-to-action
 
-## Technical Framework
+2. **About Us (about.html)**
+   - Organization history timeline (2019-2025)
+   - Mission, vision, and values
+   - Founding team member profiles
+   - Community achievements and partnerships
 
-Both projects utilize modern web development technologies to ensure optimal user experience and functionality:
+3. **Programs (programs.html)**
+   - Volunteer gardening program details
+   - School education program information  
+   - Community workshops and skill-building
+   - Youth leadership program
+   - Special events and seasonal activities
 
-**Core Technologies:**
-- HTML5 for semantic markup structure
-- CSS3 for responsive styling and visual design
-- JavaScript for interactive functionality and user engagement
+4. **Resources (resources.html)**
+   - Downloadable gardening guides and calendars
+   - Video learning library
+   - Interactive tools and calculators
+   - Community knowledge sharing
 
-**Infrastructure Requirements:**
-- Secure SSL hosting with adequate bandwidth for multimedia content
-- Mobile-responsive design prioritizing accessibility (WCAG compliance)
-- Cross-browser compatibility (Chrome, Firefox, Safari, Edge)
-- Search engine optimization for local visibility
+5. **Contact (contact.html)**
+   - Multiple contact forms (volunteer, school visits, partnerships)
+   - Location and visit information
+   - FAQ section and emergency information
+   - Google Maps integration
 
-## Design Philosophy
+## Timeline & Milestones  
+## Part 1: Planning and Research (Weeks 1-2) 
 
-The design approach for both projects emphasizes user-centered design principles, ensuring accessibility and usability across diverse user groups. The Green Future Community Garden website employs earth-toned color schemes (#2E7D32, #5D4037, #66BB6A) to reflect environmental values, while the TechFix website utilizes professional color palettes (#1976D2, #424242, #4CAF50) to convey technical expertise and reliability (Nielsen, 2024).
+ Project proposal development and approval
+ Content research and gathering from community sources
+ Sitemap creation and user journey mapping
+ Wireframe development for all pages
+ File structure setup and repository initialization
 
-## Development Methodology
-
-The project follows a phased development approach:
-
-**Phase 1 - Foundation (Weeks 1-2):**
-Content gathering, stakeholder interviews, and competitive analysis
-
-**Phase 2 - Development (Weeks 3-5):**
-Website construction, responsive design implementation, and interactive feature integration
-
-**Phase 3 - Launch Preparation (Week 6):**
-Cross-platform testing, SEO optimization, and final documentation
-
-## Target Audience Analysis
-
-**Green Future Community Garden:**
-- Local residents aged 25-65 interested in sustainable living
-- Families seeking educational opportunities for children
-- Environmental advocates and community organizations
-- Educational institutions requiring hands-on learning experiences
-
-**TechFix Mobile Repair:**
-- Mobile device users aged 18-55 requiring repair services
-- Small business owners needing device management solutions
-- Students seeking affordable repair alternatives
-- Senior citizens requiring patient, detailed assistance
-
-## Expected Outcomes
-
-Both projects aim to establish professional digital presences that enhance organizational capacity and community reach. Success metrics include increased user engagement, improved service accessibility, and strengthened community connections through digital platforms.
-
-The Green Future Community Garden website is projected to significantly expand volunteer participation and educational outreach, while the TechFix platform is expected to diversify customer acquisition channels and streamline service delivery processes.
-
-## Community Impact
-
-These projects represent more than just technical exercises; they demonstrate the potential of web development to strengthen community bonds, promote environmental sustainability, and support local economic development. Through accessible design and user-focused functionality, both websites serve as digital bridges connecting organizations with their communities.
+## Changelog
+- **2025-08-24**: Initial project setup and README creation
+- **[25/08/2025]** – Added sitemap and initial folder structure.
+- **[27/08/2025]** – Pushed initial HTML skeleton pages.
 
 ## References
 
